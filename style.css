@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contr {
+    margin: 60px 515px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.in{
+    width: 400px;
+    margin-right: 5px;
+    padding: 20px;
+    
+}
+.list {
+    min-width: 100px;
+    background-color: rgb(214, 211, 32);
+    border-radius: 5px;
+    color: rgb(183, 22, 167);
+    text-align: center;
+}
+.todo{
+    display: flex;
+    margin-top: 10px;
+}
+.chek{
+    margin-left: 10px;
+    width: 20px;
+    border-radius: 50%;
+}
